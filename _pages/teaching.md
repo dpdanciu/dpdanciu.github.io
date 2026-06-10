@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching, Mentoring & Academic Leadership"
 permalink: /teaching/
 author_profile: true
 ---
-
-### Teaching, Mentoring & Academic Leadership  
+  
 Bridging interdisciplinary gaps requires active mentorship and education. My academic teaching and leadership experience ranges from core undergraduate mathematics courses to guiding interdisciplinary research projects. 
 
 ### Student Mentoring & Co-Supervision  
