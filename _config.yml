@@ -2,7 +2,7 @@
 # Basic Site Settings
 locale                    : "en-US"
 site_theme                : "mint"
-title                     : "Diana-Patricia Danciu"
+title                     : "Dr Diana-Patricia Danciu"
 title_separator           : "|"
 name                      : &name "Diana-Patricia Danciu"
 description               : &description "Dr. Diana-Patricia Danciu is a Mathematical Systems Biologist and Postdoctoral Researcher at Heidelberg University. Specializing in mechanistic modeling, stochastic systems, and data-driven systems biology to decode neural stem cell dynamics, tissue regeneration, and glioblastoma cancer progression."
