@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Diana Danciu | Mathematical Systems Biology"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Diana-Patricia Danciu"
 description              : &description "Postdoctoral researcher in mathematical systems biology studying neural stem cell dynamics in health and disease."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -228,10 +228,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
