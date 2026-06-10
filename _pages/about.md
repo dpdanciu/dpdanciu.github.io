@@ -1,9 +1,8 @@
 ---
 permalink: /
 title: "About"
-layout: single
+layout: archive
 author_profile: true
-title_hide: true
 redirect_from:
   - /about/
 ---
