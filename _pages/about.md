@@ -3,6 +3,8 @@ permalink: /
 title: "About"
 layout: archive
 author_profile: true
+redirect_from:
+  - /about/
 ---
 
 I am a mathematical systems biologist developing mechanistic modeling frameworks to decipher the regulatory principles underlying stem cell dynamics in tissue health, regeneration, and disease. By integrating quantitative models with high-dimensional experimental datasets, my research uncovers the hidden feedback mechanisms governing neural stem cell activation, tissue homeostasis, and tumor progression.  
