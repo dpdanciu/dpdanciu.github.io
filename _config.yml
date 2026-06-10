@@ -23,7 +23,7 @@ repository               : "dpdanciu/dpdanciu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pozaSticker_Diana.png"
   name             : "Diana-Patricia Danciu"
   pronouns         : # example: "she/her"  
   bio              : "Mathematical systems biologist developing mechanistic models to decipher regulatory principles of stem cell dynamics in health and disease."
@@ -228,10 +228,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
