@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Teaching, Mentoring & Academic Leadership"
 permalink: /teaching/
 author_profile: true
