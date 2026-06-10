@@ -3,6 +3,7 @@ permalink: /
 title: "About"
 layout: single
 author_profile: true
+title_hide: true
 redirect_from:
   - /about/
 ---
