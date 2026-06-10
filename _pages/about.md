@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "About me"
+title: "About"
+layout: about
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,9 +15,7 @@ My work explicitly aims to bridge mathematical theory with experimental observat
 Currently, I am a Postdoctoral Researcher at Heidelberg University's Institute for Mathematics, working within the framework of the ERC Synergy Grant "PerPetuating Stemness" (PEPS) , as well as the Collaborative Research Center SFB 1324.  
 
 ## Core Research Interests:  
-*	Mechanistic & Predictive Modeling of Stem Cell Systems  
-*	Stochastic (Markov Chains) & Deterministic Nonlinear Dynamics (ODEs)  
-*	Data-driven Parameter Estimation & Uncertainty Quantification  
-*	Cancer Neuroscience & Glioblastoma Progression Regulatory Dynamics  
-
-
+* Mechanistic & Predictive Modeling of Stem Cell Systems  
+* Stochastic (Markov Chains) & Deterministic Nonlinear Dynamics (ODEs)  
+* Data-driven Parameter Estimation & Uncertainty Quantification  
+* Cancer Neuroscience & Glioblastoma Progression Regulatory Dynamics
