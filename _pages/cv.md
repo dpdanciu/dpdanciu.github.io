@@ -9,56 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### Professional Experience  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*	2019 – Present: Postdoctoral Researcher, Institute for Mathematics, Heidelberg University (within ERC Synergy Project PEPS and SFB1324)
+  
+*	Jan – Jul 2015: Research Trainee, Microsoft Research, Cambridge UK (Glioblastoma multi-scale spatial growth modeling)
+  
+*	Jul – Sept 2014: Research Summer Student, HGS Post-Bachelor Program, Heidelberg University (Leukemia dynamics)
+  
+*	Jan – Jun 2014: Research Trainee (Master Thesis), EMBL-EBI, Cambridge UK (Bayesian network inference pipelines)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  
+### Education
+*	2015 – 2019: PhD (Dr. rer. nat.) in Mathematical Modeling (Magna cum Laude), Heidelberg University, Germany
+  
+*	2013 – 2014: MSc in Systems Biology, University of Cambridge (Murray Edwards College), UK
+  
+*	2010 – 2013: BA in Mathematics, University of Cambridge (Murray Edwards College), UK
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Selected Awards & Fellowships  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+*	2015 – 2018: Doctoral Fellowship via Landesgraduiertenförderungsgesetz (LGFG) - Promotionskolleg "Mathematical Modelling"
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+*	2016: Best Poster Award – 10th European Conference on Mathematical and Theoretical Biology (ECMTB2016)
+	
+*	2014: Romanian Student of the Year in Europe Award (LSRS)
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+### Technical & Language Proficiencies
+
+*	Programming & Tools: MATLAB, Mathematica, Python, R, F#, LaTeX, HTML
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+*	Languages: Romanian (Native), English (Fluent), German (Fluent/B2), French (Conversational/B1)
+  
+
