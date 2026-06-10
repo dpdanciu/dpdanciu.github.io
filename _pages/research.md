@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Research"
-layout: research
+layout: archive
 author_profile: true
 redirect_from: 
   - /research/
