@@ -1,11 +1,8 @@
 ---
-permalink: /research/
-title: "Research"
 layout: archive
+title: "Research"
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
 ---
 
 My research centers on understanding how stem cell systems maintain long-term robustness and how the dysregulation of activation and self-renewal drives aging, regeneration failure, and malignant growth. I tailor computational and mathematical models to specific biological questions through close, interdisciplinary collaborations with experimental groups. 
