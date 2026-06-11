@@ -11,7 +11,7 @@ I am a mathematical systems biologist developing mechanistic modeling frameworks
 
 My work explicitly aims to bridge mathematical theory with experimental observations to generate predictive, systems-level insights into both robust regenerative systems and dysregulated pathological architectures.  
 
-Currently, I am a Postdoctoral Researcher at Heidelberg University's Institute for Mathematics, working within the framework of the ERC Synergy Grant "PerPetuating Stemness" (PEPS) , as well as the Collaborative Research Center SFB 1324.  
+Currently, I am a Postdoctoral Researcher at Heidelberg University's Institute for Mathematics, in the group of [Anna Marciniak-Czochra](https://scholar.google.com/citations?user=3Epu8YUAAAAJ&hl=pl), working within the framework of the [ERC Synergy Grant "PerPetuating Stemness" (PEPS)](https://cordis.europa.eu/project/id/101071786) in collaboration with DKFZ ([Ana Martin-Villalba](https://martin-villalba-lab.github.io/)) and Institute Pasteur ([Laure Bally-Cuif](https://research.pasteur.fr/en/team/zebrafish-neurogenetics/)), as well as the [Collaborative Research Center SFB 1324](https://sfb1324.de/) ([Ingrid Lohmann](https://ilohmann-lab.org/research.html)).  
 
 ## Core Research Interests:  
 * Mechanistic & Predictive Modeling of Stem Cell Systems  
