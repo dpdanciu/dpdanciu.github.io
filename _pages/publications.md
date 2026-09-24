@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Peer-Reviewed Journals  
-*	Wang, R.-Y. <sup>+</sup>,**Danciu, D.-P.** <sup>+</sup>, Klawe, F. Z. <sup>+</sup>, Marciniak-Czochra, A. "Harnessing Biological Variability for Mechanistic Inference: A Practical Stochastic Framework." bioRxiv (2026). (in revision at iScience). [DOI](https://www.biorxiv.org/content/10.64898/2026.01.22.701043v1.full)  
+*	Wang, R.-Y. <sup>+</sup>,**Danciu, D.-P.** <sup>+</sup>, Klawe, F. Z. <sup>+</sup>, Marciniak-Czochra, A. "Harnessing biological variability for mechanistic inference: A stochastic framework applied to neural stem cell dynamics." iScience 29.9 (2026). [DOI](https://www.cell.com/iscience/fulltext/S2589-0042(26)02647-7)  
 	<sup>+</sup>Equal contribution
 *	Foerster, L., Kaya, O., Wüst, V., **Danciu, D.-P.**, ... Marciniak-Czochra, A., Anders, S., Martin-Vilallba, A. "Cross-species comparison reveals therapeutic vulnerabilities halting glioblastoma progression." Nature Communications 16, 7250 (2025). [DOI](https://doi.org/10.1038/s41467-025-62528-w)
 *	**Danciu, D.-P.**, Klawe, F. Z., ... Martin-Villalba, A., Marciniak-Czochra, A. "Unraveling regulatory feedback mechanisms in adult neurogenesis through mathematical modelling." npj Systems Biology and Applications 11, 82 (2025). [DOI](https://doi.org/10.1038/s41540-025-00563-5)
